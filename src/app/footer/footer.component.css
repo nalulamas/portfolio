@@ -1,3 +1,6 @@
+.bg-footer{
+  background-color: rgb(251, 227, 242);
+}
 ul.social-network{
   list-style: none;
   padding: 0;
@@ -11,7 +14,7 @@ ul.social-network li{
 
 .fa{
   font-size: 35pt;
-  color: #ffff;
+  color: rgb(29, 29, 29);
   padding: 10px;
 }
 .fa-github-square:hover{
