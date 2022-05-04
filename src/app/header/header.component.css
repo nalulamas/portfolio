@@ -1,16 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&family=Great+Vibes&family=Kanit:ital@1&family=Open+Sans:ital,wght@0,800;1,300;1,500&family=PT+Sans+Narrow&family=Roboto+Mono:ital,wght@0,100;1,100&display=swap");
-
 .bg {
-  background-color: #f1f1f13e;
-}
-
-.ft {
-  font-family: 'EB Garamond', serif;
-  font-family: 'Great Vibes', cursive;
-  font-family: 'Kanit', sans-serif;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-family: 'Roboto Mono', monospace;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 18px;
+  background-color: #fce7e73e;
+  box-shadow:6px 6px 6px #e147912c;
 }
