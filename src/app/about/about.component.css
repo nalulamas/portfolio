@@ -1,1 +1,21 @@
 
+.img-fluid {
+  background-image: url("../../assets/naluimg.jpg");
+  border-radius: 50%;
+  width: 355px;
+  height: 348px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ft {
+  font-family: 'EB Garamond', serif;
+  font-family: 'Great Vibes', cursive;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 30px;
+}
