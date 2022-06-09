@@ -1,6 +1,4 @@
-.fixed
-{
-  position: fixed;
-  right: 0;
-  bottom: 0;
+html {
+  scroll-behavior: smooth;
 }
+
