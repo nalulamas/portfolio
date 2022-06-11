@@ -1,7 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+/*Fonts*/
+.ft-greatVibes{
+  font-family: 'Great Vibes', cursive;
+}
+
 .ft-20 {
   font-size: 20px;
 }
 
+.ft-ubuntu{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.ft-60 {
+  font-size: 60px;
+}
+.fc {
+  font-size: 23px;
+  color: rgb(130, 35, 85);
+  font-weight: 900;
+}
+/*scrollbar*/
 ::-webkit-scrollbar{
   width: 10px;
 }
