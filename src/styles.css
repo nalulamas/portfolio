@@ -21,8 +21,13 @@ html {
 .ft-60 {
   font-size: 60px;
 }
+
+.fa-feeling:hover{
+  color:rgba(63, 5, 110, 0.418);
+}
+
 .fc {
-  font-size: 23px;
+  font-size: 25px;
   color: rgb(130, 35, 85);
   font-weight: 900;
 }
