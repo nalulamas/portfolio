@@ -1,7 +1,7 @@
-.img-fluid {
+.img-feeling {
   background-image: url("../../assets/feeling.png");
   border-radius: 4%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+
 }

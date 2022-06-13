@@ -58,3 +58,8 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.bg-about{
+  background-color: #ff006a21;
+  box-shadow:6px 6px 6px #ed8aba89;
+}
